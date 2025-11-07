@@ -1,5 +1,5 @@
 <h1>Joseph Oliver, MBA!</h1>
-<li>Software Engineer at General Dynamics Mission Systems (GDMS)</li>
+<li>Software Engineer</li>
  <li>Master of Business Administration (MBA) with focus on Business Analytics (Bryant University 2024)</li>
  <li>Bachelor's of Science in Mathematics (UMass-Dartmouth 2022)</a></li>
 <h2>What is this page?</h2>
