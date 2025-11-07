@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joseph! <br/><a href="https://github.com/Ermuden">Software Engineer</a>, <a href="https://www.linkedin.com/in/joseph271828oliver/">Undergraduate Math Major</a>, <a href="https://www.youtube.com/channel/UC0t85lFboudHRMVEE22xiKg">Amateur YouTuber</a></h1>
+<h1>Hi, I'm Joseph! <br/><a href="https://github.com/Ermuden">Software Engineer</a>, <a href="https://www.linkedin.com/in/joseph271828oliver/">Master of Business Administration (MBA) with a specialization in Business AnalyticsUndergraduate Math Major</a>, <a href="https://www.youtube.com/channel/UC0t85lFboudHRMVEE22xiKg">Amateur YouTuber</a></h1>
 
 <h2>👨‍💻 Undergraduate Projects:</h2>
 
@@ -16,7 +16,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Playlist of MBA Project Recordings](https://www.youtube.com/watch?v=TsV-Zbkm8KY&list=PL6zhBLFjkOSI74fXIqOfHc7_1aH8SMoWL)
 
 <h2>📺 Certifications</h2>
 
@@ -24,15 +24,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[linkedin]: https://www.linkedin.com/in/joseph271828oliver/
 
 <!--
 **Ermuden/Ermuden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
