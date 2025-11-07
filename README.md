@@ -1,18 +1,9 @@
 <h1>Hi, I'm Joseph Oliver, MBA!</h1>
-<h3><a href="https://github.com/Ermuden">Software Engineer at General Dynamics Mission Systems (GDMS)</a><br/><a href="https://www.linkedin.com/in/joseph271828oliver/"><br/>Master of Business Administration (MBA) with specialization in Business Analytics | Bryant University<br/><br/>Bachelor's of Science in Mathematics | UMass-Dartmouth</a></h3>
+<h3><a href="https://github.com/Ermuden">Software Engineer at General Dynamics Mission Systems (GDMS)</a><br/><a href="https://www.linkedin.com/in/joseph271828oliver/"><br/>Master of Business Administration (MBA) with specialization in Business Analytics | Bryant University 2024<br/><br/>Bachelor's of Science in Mathematics | UMass-Dartmouth 2022</a></h3>
 This github repo is home to various projects throughout my undergrad, graduate, and free time. Uploads are quite sporadic and it is possible that some code here has not been updated as open source libraries have changed over time. Please feel free to explore some of the code I've written and worked on! If you have any questions, please feel free to reach out to me via my LinkedIn! Cheers!
-
-<h2>👨‍💻 Undergraduate Projects:</h2>
-
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
 <h2>👨‍💻 Graduate Projects:</h2>
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
- <h2>👨‍💻 Misc. Projects:</h2>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
