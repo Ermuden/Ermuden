@@ -4,11 +4,6 @@
  <li>Bachelor's of Science in Mathematics (UMass-Dartmouth 2022)</a></li>
 <h2>What is this page?</h2>
 This github repo is home to various projects throughout my undergrad, graduate, and free time. Uploads are quite sporadic and it is possible that some code here has not been updated as open source libraries have changed over time. Please feel free to explore some of the code I've written and worked on! If you have any questions, please feel free to reach out to me via my LinkedIn! Cheers!
- 
-<h2>👨‍💻 Graduate Projects:</h2>
-
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 YouTube Videos/Playlists</h2>
 
